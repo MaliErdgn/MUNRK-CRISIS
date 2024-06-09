@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MUNRK-CRISIS/static/css/main.e6c13ad2.css",
-    "main.js": "/MUNRK-CRISIS/static/js/main.5811e0e2.js",
+    "main.js": "/MUNRK-CRISIS/static/js/main.30fa929f.js",
     "static/js/453.3d4ef83d.chunk.js": "/MUNRK-CRISIS/static/js/453.3d4ef83d.chunk.js",
     "index.html": "/MUNRK-CRISIS/index.html",
     "main.e6c13ad2.css.map": "/MUNRK-CRISIS/static/css/main.e6c13ad2.css.map",
-    "main.5811e0e2.js.map": "/MUNRK-CRISIS/static/js/main.5811e0e2.js.map",
+    "main.30fa929f.js.map": "/MUNRK-CRISIS/static/js/main.30fa929f.js.map",
     "453.3d4ef83d.chunk.js.map": "/MUNRK-CRISIS/static/js/453.3d4ef83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5811e0e2.js"
+    "static/js/main.30fa929f.js"
   ]
 }
