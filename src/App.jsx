@@ -4,8 +4,8 @@ import Main from "./components/Main/Main";
 
 function App() {
   return (
-    <Router>
-      <Routes>
+    <Router basename="/MUNRK-CRISIS">
+       <Routes>
         <Route path="/" element={<Main />} />
        </Routes>
     </Router>
